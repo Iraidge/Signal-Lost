@@ -1,2 +1,2 @@
-# Signal-Lost
-An Indie-Game for Game Off 2025
+# Signal Lost (Game Off 2025)
+(Initial repo setup - README, .gitignore)
