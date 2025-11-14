@@ -1,107 +1,19 @@
-# =============================
-# Unreal Engine Core Ignores
-# =============================
+# IGNORE Unreal Engine generated folders (regardless of root)
+**/Binaries/
+**/Build/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
 
-# Ignore binaries, builds, caches
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
-Build/
-DerivedDataCacheBoot/
-Engine/Intermediate/
-Engine/Saved/
-
-# Ignore platform builds
-WindowsNoEditor/
-LinuxNoEditor/
-MacNoEditor/
-Android/
-IOS/
-HTML5/
-
-# Ignore shaders & temporary data
-*.aps
-*.tlog
-*.vspscc
-*.sdf
-*.suo
-*.opensdf
-*.VC.opendb
-*.VC.db
-*.ipch
-*.pdb
-
-# IDE & project environment
-.vscode/
+# Visual Studio
 .vs/
-*.code-workspace
+*.sln
+*.VC.db
+*.VC.opendb
 
-# Precompiled headers & objects
-*.pch
-*.obj
-*.o
-*.d
-*.so
-*.dll
-*.lib
-*.a
-*.la
-*.lai
-
-# Logs
-*.log
-*.dmp
-
-# Maps build data
+# Ignore auto-generated map data
 *_BuiltData.uasset
 
-# Autosaves
-Saved/Autosaves/
-Saved/Backup/
-
-# Asset registry cache
-*.asset
-*.bin
-
-# Derived Data Cache for UE5.6
-DerivedDataCache/
-Engine/DerivedDataCache/
-
-# Backup files
-*.orig
-*.backup
-*.tmp
-
-# Artists garbage
-*.blend1
-*.psd
-*.tmp
+# Ignore Mac/Win junk
+.DS_Store
 Thumbs.db
-
-# Ignore local configs
-Config/DefaultEditorPerProjectUserSettings.ini
-Config/DefaultEditor.ini
-Config/DefaultEditorKeyBindings.ini
-Config/DefaultEditorLayout.ini
-
-# =============================
-# IMPORTANT: Do NOT ignore these:
-# =============================
-
-# Keep project files
-*.uproject
-*.uplugin
-
-# Keep all source code
-Source/**
-
-# Keep config (except personal ones)
-Config/**
-
-# Keep content files
-Content/**
-
-# Keep plugins (without binaries)
-Plugins/**/Source/**
-Plugins/**/Content/**
