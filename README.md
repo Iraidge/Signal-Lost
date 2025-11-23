@@ -1,4 +1,4 @@
-# 🎧 Signal Lost — GitHub Game Off 2025
+# $${\color{green}Signal \space Lost \space — \space GitHub \space Game \space Off \space 2025}$$
 
 ## Overview
 **Signal Lost** is an atmospheric **mystery puzzle game** built for **[GitHub Game Off 2025](https://itch.io/jam/game-off-2025)**.  
