@@ -1,11 +1,5 @@
 # 🎧 Signal Lost — GitHub Game Off 2025
 
-> A mysterious signal.  
-> A fading transmission.  
-> And a race against time to uncover the truth.
-
----
-
 ## Overview
 **Signal Lost** is an atmospheric **mystery puzzle game** built for **[GitHub Game Off 2025](https://itch.io/jam/game-off-2025)**.  
 You sit in front of an old terminal and radio receiver, tuning frequencies and decoding hidden signals.  
