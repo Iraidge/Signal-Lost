@@ -1,7 +1,7 @@
-# $${\color{green}Signal \space Lost \space — \space GitHub \space Game \space Off \space 2025}$$
+# $${\color{green}Signal \space Lost}$$
 
 ## Overview
-**Signal Lost** is an atmospheric **mystery puzzle game** built for **[GitHub Game Off 2025](https://itch.io/jam/game-off-2025)**.  
+**Signal Lost** is an atmospheric **mystery puzzle game**.
 You sit in front of an old terminal and radio receiver, tuning frequencies and decoding hidden signals.  
 Piece together the clues, analyze patterns, and find out who’s trying to reach you — before the system shuts down.
 
@@ -43,7 +43,6 @@ Will you manage to uncover the secrets before the silence wins?
 ## About the Developer
 
 **Iraidge** — student and aspiring game designer.  
-Signal Lost is my **first-ever Game Jam project**, created for the GitHub Game Off 2025.  
 This project was a chance to experiment with **sound-driven gameplay, puzzles, and immersive UI design**.
 
 ---
